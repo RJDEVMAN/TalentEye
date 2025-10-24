@@ -1,0 +1,13 @@
+# Ignore py cached files
+__pycache__/
+# Ignore .env
+.env
+# Ignore virtual environment folders
+talenteye/
+# Ignore OS / editor files
+.DS_Store
+*.log
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
