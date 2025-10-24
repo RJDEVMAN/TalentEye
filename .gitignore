@@ -11,3 +11,5 @@ talenteye/
 # Ignore compiled Python files
 *.pyc
 *.pyo
+# Ignore .streamlit files
+.streamlit/
